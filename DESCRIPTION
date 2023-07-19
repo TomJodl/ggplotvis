@@ -1,0 +1,13 @@
+Package: ggplotvis
+Title: Creating a ggplot based on a dataset
+Version: 0.0.0.9000
+Authors@R: 
+    person("Tom", "Jodl", , "tom.jodl@outlook.com", role = c("aut", "cre"))
+Description: A ggplot based on the selected Variables, based on a dataset that can be freely choosen
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    ggplot2,
+    shiny

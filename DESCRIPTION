@@ -4,6 +4,9 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Tom", "Jodl", , "tom.jodl@outlook.com", role = c("aut", "cre"))
 Description: A ggplot based on the selected Variables, based on a dataset that can be freely choosen
+Examples:  
+gg_vis_point(your_data)
+gg_vis_line(mtcars)
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

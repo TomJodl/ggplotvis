@@ -1,7 +1,7 @@
 ---
 title: "Exercise #6"
 subtitle: "Fortgeschrittene Statistische Software für NF - SS 2022/23"
-author: "Tom Jodl (12598878)"
+author: "Tom Jodl (12598878), Shuman Mo (12468087"
 date: "`r Sys.Date()`"
 ---
 
